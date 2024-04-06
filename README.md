@@ -1,6 +1,6 @@
 # K.O.M.L. (Kong of Mbooble Lyricas): The Lyrical Coin with Bars
 
-![KOML Banner](https://ibb.co/BCkyNbT)
+![KOML Banner](logo.png)
 
 **K.O.M.L. (KOML)** is the memecoin for hip-hop heads and wordplay enthusiasts. It's a community-driven token built on the Solana chain that celebrates lyrical prowess and rewards holding power.
 
