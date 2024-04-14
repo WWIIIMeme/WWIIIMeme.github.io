@@ -2,13 +2,14 @@
 
 Welcome to **WWIII Memecoin (WWIIIMeme)**, a novel cryptocurrency project that captures unfolding global events related to what's popularly dubbed as WW3 in a humorous and engaging meme format. Our aim is to document these significant moments while promoting peace and unity.
 
-![WWIIIMeme](logonew.png)
+![WWIIIMeme](5.png)
 
 ## Our Mission
 
 WWMC uses the universal appeal of memes to comment on and encapsulate global events, ensuring our community remains informed and entertained, while emphasizing a message of peace and camaraderie.
 
-![WWIIIMeme](5.png)
+![WWIIIMeme](logonew.png)
+
 
 ## How It Works
 
