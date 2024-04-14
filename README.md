@@ -26,4 +26,4 @@ Every tweet or post tagged with **#WWIIIMeme** will be considered for transforma
 Let's make history while documenting it—one meme at a time!
 
 
-![WWIIIMeme](logo.png)
+![WWIIIMeme](logonew.png)
